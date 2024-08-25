@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-24 13:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+#: app/core/base_classes/models.py:22
+msgid "ROW_CREATED_AT"
+msgstr ""
+
+#: app/core/base_classes/models.py:23
+msgid "ROW_LAST_MODIFICATION"
+msgstr ""
+
+#: app/core/base_classes/models.py:24
+msgid "ROW_ACTIVE"
+msgstr ""
+
+#: app/core/base_classes/models.py:26
+msgid "ROW_HISTORY"
+msgstr ""
+
+#: app/task/apps.py:8
+msgid "TASKS"
+msgstr ""
+
+#: app/task/models.py:23
+msgid "SPRINT_MODEL_TITLE"
+msgstr ""
+
+#: app/task/models.py:24
+msgid "SPRINT_MODEL_TITLE_HELP_TEXT"
+msgstr ""
+
+#: app/task/models.py:29
+msgid "SPRINT_MODEL_STATE"
+msgstr ""
+
+#: app/task/models.py:30
+msgid "SPRINT_MODEL_STATE_HELP_TEXT"
+msgstr ""
+
+#: app/task/models.py:69
+msgid "TASK_MODEL_TITLE"
+msgstr ""
+
+#: app/task/models.py:70 app/task/models.py:76
+msgid "TASK_MODEL_SPRINT_HELP_TEXT"
+msgstr ""
+
+#: app/task/models.py:75
+msgid "TASK_MODEL_SPRINT"
+msgstr ""
+
+#: app/task/models.py:81
+msgid "TASK_MODEL_STATE"
+msgstr ""
+
+#: app/task/models.py:82
+msgid "TASK_MODEL_STATE_HELP_TEXT"
+msgstr ""
+
+#: app/task/models.py:89
+msgid "TASK_MODEL_ASSIGNED_TO"
+msgstr ""
+
+#: app/task/models.py:90
+msgid "TASK_MODEL_ASSIGNED_TO_HELP_TEXT"
+msgstr ""
+
+#: app/task/models.py:96
+msgid "TASK_MODEL_REVIEWED_BY"
+msgstr ""
+
+#: app/task/models.py:97
+msgid "TASK_MODEL_REVIEWED_BY_HELP_TEXT"
+msgstr ""
+
+#: app/task/models.py:104
+msgid "TASK_MODEL_DUE_DATE"
+msgstr ""
+
+#: app/task/models.py:105
+msgid "TASK_MODEL_DUE_DATE_HELP_TEXT"
+msgstr ""
+
+#: app/user/admin.py:14
+msgid "Personal info"
+msgstr ""
+
+#: app/user/admin.py:33
+msgid "User Permission"
+msgstr ""
+
+#: app/user/apps.py:7
+msgid "USERS"
+msgstr ""
+
+#: app/user/models.py:12
+msgid "USER_MODEL_FIRST_NAME"
+msgstr ""
+
+#: app/user/models.py:13
+msgid "USER_MODEL_FIRST_NAME_HELP_TEXT"
+msgstr ""
+
+#: app/user/models.py:19
+msgid "USER_MODEL_LAST_NAME"
+msgstr ""
+
+#: app/user/models.py:20
+msgid "USER_MODEL_LAST_NAME_HELP_TEXT"
+msgstr ""
+
+#: app/user/models.py:26
+msgid "USER_MODEL_AVATAR"
+msgstr ""
+
+#: app/user/models.py:27
+msgid "USER_MODEL_AVATAR_HELP_TEXT"
+msgstr ""
+
+#: app/user/models.py:33
+msgid "USER_MODEL_DESCRIPTION"
+msgstr ""
+
+#: app/user/models.py:34
+msgid "USER_MODEL_DESCRIPTION_HELP_TEXT"
+msgstr ""
+
+#: app/user/models.py:39
+msgid "USER_MODEL_MOBIL"
+msgstr ""
+
+#: app/user/models.py:40
+msgid "USER_MODEL_MOBIL_HELP_TEXT"
+msgstr ""
+
+#: app/user/models.py:46
+msgid "USER_MODEL_EMAIL"
+msgstr ""
+
+#: app/user/models.py:47
+msgid "USER_MODEL_EMAIL_HELP_TEXT"
+msgstr ""
+
+#: app/utils/custom_exception.py:13
+msgid "INVALID_REQUEST"
+msgstr ""
+
+#: app/utils/custom_exception.py:18
+msgid "URL_EXCEPTION"
+msgstr ""
+
+#: config/api_doc.py:8
+msgid "PROJECT_API_TITLE"
+msgstr ""
+
+#: config/api_doc.py:10
+msgid "PROJECT_API_DESCRIPTION"
+msgstr ""
+
+#: config/response_handler.py:8
+msgid "ERROR_CODE_401"
+msgstr ""
+
+#: config/response_handler.py:16
+msgid "ERROR_CODE_404"
+msgstr ""
+
+#: config/response_handler.py:24
+msgid "ERROR_CODE_500"
+msgstr ""
