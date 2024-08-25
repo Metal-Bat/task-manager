@@ -1,0 +1,20 @@
+# General
+# ------------------------------------------------------------------------------
+USE_DOCKER=yes
+DJANGO_DEBUG=true
+IPYTHONDIR=/app/.ipython
+TIME_ZONE=UTC
+USE_TZ=True
+DJANGO_SECRET_KEY=dfklsdjflskdfjlksdjflksdfjlksdfjlsdkflksdjflksdjflksjdflkjdsflkj
+
+# Redis
+# ------------------------------------------------------------------------------
+REDIS_URL=redis://redis:6379/0
+
+# Celery
+# ------------------------------------------------------------------------------
+CELERY_BROKER_URL=amqp://@rabbitmq:5672/0
+
+# Flower
+CELERY_FLOWER_USER=dfklsdjflskdfjlksdjflksdfjlksdfjlsdkflksdjflksdjflksjdflkjdsflkj
+CELERY_FLOWER_PASSWORD=dfklsdjflskdfjlksdjflksdfjlksdfjlsdkflksdjflksdjflksjdflkjdsflkj
