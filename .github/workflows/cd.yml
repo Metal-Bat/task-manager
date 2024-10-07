@@ -72,7 +72,7 @@ jobs:
 
     steps:
       - name: SSH Remote Commands
-        uses: appleboy/ssh-action@v1.0.3
+        uses: appleboy/ssh-action@v1.1.0
         with:
           host: ${{ secrets.SSH_HOST }}
           username: ${{ secrets.SSH_USER }}
